@@ -1,0 +1,5 @@
+- Programming Language: Python
+- Messaging System: Kafka
+- Storage: Hadoop HDFS
+- Containerization and Orchestration: Kubernetes
+- User Interface: Django
